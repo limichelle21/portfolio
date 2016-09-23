@@ -1,7 +1,8 @@
-# Portfolio Iro Theme
-## Based on Type Theme
+## My portfolio site based on:
 
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-iro.png)
+### Portfolio Iro Theme
+#### Based on Type Theme
+
 
 A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
 
